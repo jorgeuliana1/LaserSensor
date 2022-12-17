@@ -33,9 +33,11 @@ O sistema é controlado por meio de um teclado matricial. Quando o sistema é in
 ## 4. Esquemáticos
 
 ![Figura 1](fig/fig1.png)
+
 **Figura 1:** Montagem do alarme na _breadboard_ sem o teclado matricial.
 
 ![Figura 2](fig/fig2.png)
+
 **Figura 2:** Montagem do alarme na _breadboard_ sem o teclado matricial mostrando o laser.
 
 ## 5. Créditos
